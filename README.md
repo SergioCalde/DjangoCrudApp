@@ -1,0 +1,2 @@
+# DjangoCrudApp
+First Django Application
